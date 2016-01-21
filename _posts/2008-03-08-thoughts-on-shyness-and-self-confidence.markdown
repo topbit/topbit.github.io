@@ -6,9 +6,10 @@ categories: topbit article bicon  bicon2005
 ---
 
 * [edit: Added the 'Faking It USA' links at the bottom. They are highly recommended to read]
-* [20th October 2013 - added Epilogue 2, a PhD Dissertation on th subject of 'Faking It']
+* [20th October 2013 - added Epilogue 2, about a PhD Dissertation on the subject of 'Faking It']
 
 #### Hello, I'm Topbit - and I'm shy.
+
 Some would not believe it after the mini adventure that was the Bicon 2004 group photo (and more), but I consider it to be utterly true.  I've been the one stuck - of my own choice - on the furthest edge away from the dance-floor all night before, and it's not somewhere I like to be.
 
 Crunchtime for me came a few years ago, when after years of playing the wall-flower, I got smart enough to figure out it was just no fun - and certainly wasn't going to become any more enjoyable - I was also alone, and that wasn't likely to change either.  I decided in that instant to do something about it, and so started a process that has, in some fits and starts, has, for the last three years or so, seen me taking a few more risks, and having a lot more fun in the meantime.  Bicon, is simply the most recent fun (and what fun!) in a now long line of enjoyable experiences.
@@ -37,9 +38,9 @@ All those tiny little risks, like going somewhere new, talking to someone you've
 
 Ultimately, at Bicon, nothing bad happened to me, and even though some mistakes were made, by me, and towards me, but I took them in the same manner as how I found Bicon itself - a safe space, where mistakes were not dwelt on, and it was a supportive and occasionally forgiving place. I knew very quickly that everyone around me would catch me if I fell. Some did have some problems, with the weekend being maybe too intense, or too new for them.  I suspect that some of them found new friends among those that offered to help them.
 
-It's not just Bicon where, if you need help, you will find people simply appearing to help you. It may just have been be a little more obvious. We've all heard of various good-Samaritan stories (and if you haven't heard many recently, then let me recommend subscribing to the free email newsletter at http://heroicstories.com/) where those in need get help from people they've  never met before.
+It's not just Bicon where, if you need help, you will find people simply appearing to help you. It may just have been be a little more obvious. We've all heard of various good-Samaritan stories (and if you haven't heard many recently, then let me recommend subscribing to the free email newsletter at <http://heroicstories.com/>) where those in need get help from people they've  never met before.
 
-For many sections of the community, there are also dedicated support lines, for transgendered,  lesbians, gays and bisexuals - and for their partners, often from people that have gone through the same problems that you or I may have done. And of course, there is the Samaritans - they even have an email address you can use if you don't want to call. If you feel it's too much, any of these people - and more, would catch you if you fell.
+For many sections of the community, there are also dedicated support lines, for transgendered, lesbians, gays and bisexuals - and for their partners, often from people that have gone through the same problems that you or I may have done. And of course, there is the Samaritans - they even have an email address you can use if you don't want to call. If you feel it's too much, any of these people - and more, would catch you if you fell.
 
 
 #### Step Three. Fake it, until you make it.
@@ -62,7 +63,7 @@ Finally, I'm reminded of the TV program 'Faking It USA', one episode stands out 
 
 [Haley Holmes said afterwards][fakingit.213]{:title="fakingit, episode 213 - Super Shy to Superfly"} that she plans to audition for a job at the new Coyote Ugly in San Antonio, that she is a great deal more confident with people, and has the confidence to know she can control any situation - she was put into a situation where she then proved it - the risk, came good, like so many others do. I suspect that's an opinion you would find from many of the guests on the program, especially from some quiet backgrounds as hers, that are thrust into completely different environment - as is the norm in this series.
 
-#### Epilogue 2 - 20 October 2013
+#### Epilogue 2, 20 October 2013
 
 These evening I found the [dissertation][dissertation]{:title="Haley K. Holmes, B.A., M.A., PhD Dissertation"}, that [Haley K. Holmes][Haley.K.Holmes] did after her Reality TV programme, and have been reading it.
 
