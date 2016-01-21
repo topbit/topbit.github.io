@@ -1,0 +1,12 @@
+# Site settings
+#description: > # this means to ignore newlines until 
+title: "Topbit: The kink that I describe"
+description: ""
+email: topbit@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://topbit.co.uk" # the base hostname & protocol for your site
+twitter_username: topbit
+github_username: topbit
+
+# Build settings
+markdown: kramdown
