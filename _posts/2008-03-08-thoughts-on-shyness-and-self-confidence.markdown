@@ -2,7 +2,6 @@
 layout: post
 title:  "Thoughts on shyness and self confidence"
 date:   2008-03-08 10:22:28
-categories: topbit article bicon  bicon2005
 ---
 
 * [edit: Added the 'Faking It USA' links at the bottom. They are highly recommended to read]
