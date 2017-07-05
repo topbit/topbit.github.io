@@ -10,9 +10,9 @@ In August 2008, just after I came home from Bicon in Glamorgan, I set up a coupl
 
 The Poly events calendar is still under my control, and I will add to it when I see a new one-off or regular event if I can, but I don't get many additions being sent to me, so I can't easily tell if events are still running, and what new events or meetings are happening.  
 
-You can find al the links to various formats to get the calendar at <http://topbit.co.uk/poly-calendar>. Below is the HTML
+You can find al the links to various formats to get the calendar at <http://topbit.co.uk/poly-calendar>. Below is the HTML table version, or a simpler <a href="https://calendar.google.com/calendar/embed?src=r77h5s68dtsu0v8dtel66aoa4g@group.calendar.google.com&mode=AGENDA">'Agenda'</a> version.
 
 
 To add new meetups, events, or to correct information that is currently on the calendar, let me know - email <mailto:calendar@topbit.co.uk> with dates/locations and any links to more information you think would be useful.
 
-<iframe src="<a href="http://www.google.com/calendar/embed?src=r77h5s68dtsu0v8dtel66aoa4g%40group.calendar.google.com" rel="nofollow">" frameborder="0"></iframe>
+<iframe src="http://www.google.com/calendar/embed?src=r77h5s68dtsu0v8dtel66aoa4g%40group.calendar.google.com" frameborder="0"></iframe>
