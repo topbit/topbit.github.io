@@ -15,4 +15,4 @@ You can find al the links to various formats to get the calendar at <http://topb
 
 To add new meetups, events, or to correct information that is currently on the calendar, let me know - email <mailto:calendar@topbit.co.uk> with dates/locations and any links to more information you think would be useful.
 
-<iframe src="http://www.google.com/calendar/embed?src=r77h5s68dtsu0v8dtel66aoa4g%40group.calendar.google.com" frameborder="0"></iframe>
+<iframe width="240" height="400" src="http://www.google.com/calendar/embed?src=r77h5s68dtsu0v8dtel66aoa4g%40group.calendar.google.com" frameborder="0"></iframe>
